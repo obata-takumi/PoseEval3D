@@ -84,3 +84,14 @@ MediaPipeの精度は、被験者の姿勢やカメラの視点に強く依存�
 ---
 
 論文の文脈に合わせて、適宜セクションの順序を調整したり、特定の数値を強調したりしてご活用ください。
+
+
+@inproceedings{
+  KyTea, %https://pmc.ncbi.nlm.nih.gov/articles/PMC11644880/
+  title={Pointwise prediction for robust, adaptable Japanese morphological analysis},
+  author={Neubig, Graham and Nakata, Yosuke and Mori, Shinsuke},
+  booktitle={Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies: short papers-Volume 2},
+  pages={529--533},
+  year={2011},
+  organization={Association for Computational Linguistics}
+}
